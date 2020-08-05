@@ -88,6 +88,10 @@ PS: New Relic Certified Performance Pro certification has been retired as on Nov
 | Complexity   	| Moderate / Tough                                         	| Tough                                                    	|
 | Free Retake  	| No                                                       	| No                                                       	|
 
+## Others
+
+* [OctoPerf](https://octoperf.com/pricing/#training)
+
 ## Retired
 
 * IBM Rational Performance Tester v8
