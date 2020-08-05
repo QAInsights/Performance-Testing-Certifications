@@ -3,10 +3,10 @@
 This repository contains information about the performance testing and monitoring certifications. I will try to keep this information uptodate. But it is your responsibility to check the relevant official links before you register for the certification.
 
 # 📘 List of Certifications 
-  * [Micro Focus](#🎯micro-focus-certifications)
-    + [LoadRunner](#🎯loadrunner)
-    + [Silk Performer](#🎯silk-performer)
-  * [Apache JMeter](#🎯apache-jmeter)
+  * [Micro Focus](#-micro-focus-certifications)
+    + [LoadRunner](#-loadrunner)
+    + [Silk Performer](#-silk-performer)
+  * [Apache JMeter](#-apache-jmeter)
   * [Neotys NeoLoad](#neotys-neoload)
   * [Dynatrace](#dynatrace)
   * [New Relic](#new-relic)
