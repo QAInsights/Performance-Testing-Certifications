@@ -57,4 +57,13 @@ Dynatrace Master Journey requires submitting the application form to Dyntrace.
 
 ## New Relic
 
+* Cert Name: Nee Relic Fundamentals
+* Price: Free
+* Registration: https://learn.newrelic.com/series/fundamentals
+* Validity: 1 year
+* Complexity: Moderate
+* Free Retake: Yes
+
+PS: New Relic Certified Performance Pro certification has been retired as on Nov 15 2019.  
+
 ## AppDynamics
