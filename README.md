@@ -67,3 +67,12 @@ Dynatrace Master Journey requires submitting the application form to Dyntrace.
 PS: New Relic Certified Performance Pro certification has been retired as on Nov 15 2019.  
 
 ## AppDynamics
+
+| Cert Names   	| AppDynamics Certified Associate                          	| AppDynamics Certified Professional                       	|
+|--------------	|----------------------------------------------------------	|----------------------------------------------------------	|
+| Price        	| 400 USD                                                  	| 400 USD                                                  	|
+| Registration 	| https://education.appdynamics.com/                       	| https://education.appdynamics.com                        	|
+| Validity     	| 2 years                                                  	| 2 years                                                  	|
+| Complexity   	| Moderate / Tough                                         	| Tough                                                    	|
+| Free Retake  	| No                                                       	| No                                                       	|
+
