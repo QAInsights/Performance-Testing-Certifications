@@ -1,5 +1,6 @@
 # PerformanceTesting-Certifications
-This repository contains information about the performance testing and monitoring certifications.
+
+This repository contains information about the performance testing and monitoring certifications. I will try to keep this information uptodate. But it is your responsibility to check the relevant official links before you register for the certification.
 
 # List of Certifications
 
@@ -25,7 +26,7 @@ This repository contains information about the performance testing and monitorin
 
 ## Apache JMeter
 
-There is no officia certification from Apache Foundation. But I recommend Blazemeter certification.
+There is no official certification from Apache Foundation. But I recommend Blazemeter certification.
 
 * Cert Name: Apache JMeter Pro
 * Price: Free
