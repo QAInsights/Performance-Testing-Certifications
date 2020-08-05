@@ -3,7 +3,7 @@
 This repository contains information about the performance testing and monitoring certifications. I will try to keep this information uptodate. But it is your responsibility to check the relevant official links before you register for the certification.
 
 # List of Certifications
-  * [Micro Focus Certification](#micro-focus-certification)
+  * [Micro Focus](#micro-focus-certifications)
     + [LoadRunner](#loadrunner)
     + [Silk Performer](#silk-performer)
   * [Apache JMeter](#apache-jmeter)
@@ -14,7 +14,7 @@ This repository contains information about the performance testing and monitorin
   * [Others](#others)
   * [Retired](#retired)
 
-## Micro Focus Certification
+## Micro Focus Certifications
 
 ### LoadRunner
 
