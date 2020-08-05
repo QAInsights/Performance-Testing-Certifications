@@ -20,6 +20,13 @@ This repository contains information about the performance testing and monitorin
 * Complexity: Tough
 * Free Retake: No
 
+* Cert Name: Silk Performer Certified Professional
+* Price: 200 USD
+* Registration: https://microfocus.viewcentral.com/events/uploads/microfocus/contact.html
+* Validity: Lifetime
+* Complexity: Moderate
+* Free Retake: No
+
 **References**: 
 * https://qainsights.com/how-i-successfully-cleared-micro-focus-loadrunner-certification/
 * https://marketplace.microfocus.com/education/content/loadrunner-certified-professional-exam
