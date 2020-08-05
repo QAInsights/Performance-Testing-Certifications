@@ -8,11 +8,11 @@ This repository contains information about the performance testing and monitorin
     + [Silk Performer](#-silk-performer)
   * [Apache JMeter](#-apache-jmeter)
   * [Neotys NeoLoad](#neotys-neoload)
-  * [Dynatrace](#dynatrace)
-  * [New Relic](#new-relic)
-  * [AppDynamics](#appdynamics)
-  * [Others](#others)
-  * [Retired](#retired)
+  * [Dynatrace](#-dynatrace)
+  * [New Relic](#-new-relic)
+  * [AppDynamics](#-appdynamics)
+  * [Others](#-others)
+  * [Retired](#-retired)
 
 ## 🎯 Micro Focus Certifications
 
