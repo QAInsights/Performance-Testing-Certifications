@@ -50,16 +50,16 @@ There is no officia certification from Apache Foundation. But I recommend Blazem
 * Registration: https://university.dynatrace.com/certification/dynatrace
 * Validity: 2 years
 * Complexity: Moderate
-* Free Retake: No
+* Free Retake: No  
 
 * Cert Name: Dynatrace Professional (Practical)
 * Price: 250 USD
 * Registration: https://university.dynatrace.com/certification/dynatrace
 * Validity: 2 years
 * Complexity: Moderate
-* Free Retake: No
+* Free Retake: No  
 
-Dynatrace Master Journey requires submitting the application form to Dyntrace.
+Dynatrace Master Journey requires submitting the application form to Dyntrace.  
 
 ## New Relic
 
