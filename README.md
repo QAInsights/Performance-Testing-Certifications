@@ -36,10 +36,10 @@ There is no officia certification from Apache Foundation. But I recommend Blazem
 
 ## Neotys NeoLoad
 
-* Cert Name: Apache JMeter Pro
+* Cert Name: Neotys Certified Professional for NeoLoad & Neotys Certified Expert for NeoLoad
 * Price: Free
-* Registration: https://university.blazemeter.com/
+* Registration: https://www.neotys.com/professional-services/neotys-certification-program
 * Validity: Lifetime
-* Complexity: Moderate
+* Complexity: Tough
 * Free Retake: Yes
 
