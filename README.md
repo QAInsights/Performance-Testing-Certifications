@@ -26,7 +26,7 @@ This repository contains information about the performance testing and monitorin
 
 * Cert Name: Silk Performer Certified Professional
 * Price: 200 USD
-* Registration: https://microfocus.viewcentral.com/events/uploads/microfocus/contact.html
+* Registration: https://marketplace.microfocus.com/education/content/slk200-silk-performer-certified-professional-exam
 * Validity: Lifetime
 * Complexity: Moderate
 * Free Retake: No
