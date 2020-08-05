@@ -98,3 +98,6 @@ PS: New Relic Certified Performance Pro certification has been retired as on Nov
 ## Retired
 
 * IBM Rational Performance Tester v8
+
+## Donate
+<a target="_blank" href="https://www.buymeacoffee.com/qainsights"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a tea"><span style="margin-left:15px;font-size:28px !important;">Buy me a tea</span></a>
