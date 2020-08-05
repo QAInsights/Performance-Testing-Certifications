@@ -2,7 +2,7 @@
 
 This repository contains information about the performance testing and monitoring certifications. I will try to keep this information uptodate. But it is your responsibility to check the relevant official links before you register for the certification.
 
-# ✔ List of Certifications 
+# 📘 List of Certifications 
   * [Micro Focus](#micro-focus-certifications)
     + [LoadRunner](#loadrunner)
     + [Silk Performer](#silk-performer)
@@ -14,7 +14,7 @@ This repository contains information about the performance testing and monitorin
   * [Others](#others)
   * [Retired](#retired)
 
-## Micro Focus Certifications
+## 🎯 Micro Focus Certifications
 
 ### LoadRunner
 
@@ -38,7 +38,7 @@ This repository contains information about the performance testing and monitorin
 * https://qainsights.com/how-i-successfully-cleared-micro-focus-loadrunner-certification/
 * https://marketplace.microfocus.com/education/content/loadrunner-certified-professional-exam
 
-## Apache JMeter
+## 🎯 Apache JMeter
 
 There is no official certification from Apache Foundation. But I recommend Blazemeter certification.
 
@@ -49,7 +49,7 @@ There is no official certification from Apache Foundation. But I recommend Blaze
 * Complexity: Moderate
 * Free Retake: Yes
 
-## Neotys NeoLoad
+## 🎯 Neotys NeoLoad
 
 * Cert Name: Neotys Certified Professional for NeoLoad & Neotys Certified Expert for NeoLoad
 * Price: Free
@@ -58,7 +58,7 @@ There is no official certification from Apache Foundation. But I recommend Blaze
 * Complexity: Tough
 * Free Retake: Yes
 
-## Dynatrace
+## 🎯 Dynatrace
 
 | Cert Names   	| Dynatrace Associate & Dynatrace Professional (Written)   	| Dynatrace Professional (Practical)                       	|
 |--------------	|----------------------------------------------------------	|----------------------------------------------------------	|
@@ -70,7 +70,7 @@ There is no official certification from Apache Foundation. But I recommend Blaze
 
 Dynatrace Master Journey requires submitting the application form to Dyntrace.  
 
-## New Relic
+## 🎯 New Relic
 
 * Cert Name: Nee Relic Fundamentals
 * Price: Free
@@ -81,7 +81,7 @@ Dynatrace Master Journey requires submitting the application form to Dyntrace.
 
 PS: New Relic Certified Performance Pro certification has been retired as on Nov 15 2019.  
 
-## AppDynamics
+## 🎯 AppDynamics
 
 | Cert Names   	| AppDynamics Certified Associate                          	| AppDynamics Certified Professional                       	|
 |--------------	|----------------------------------------------------------	|----------------------------------------------------------	|
@@ -91,13 +91,13 @@ PS: New Relic Certified Performance Pro certification has been retired as on Nov
 | Complexity   	| Moderate / Tough                                         	| Tough                                                    	|
 | Free Retake  	| No                                                       	| No                                                       	|
 
-## Others
+## 🎯 Others
 
 * [OctoPerf](https://octoperf.com/pricing/#training)
 
-## Retired
+## 🎯 Retired
 
 * IBM Rational Performance Tester v8
 
-## Donate
+## 💲 Donate
 <a target="_blank" href="https://www.buymeacoffee.com/qainsights"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a tea"><span style="margin-left:15px;font-size:28px !important;">Buy me a tea</span></a>
