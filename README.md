@@ -4,7 +4,7 @@ This repository contains information about the performance testing and monitorin
 
 # List of Certifications
 
-* Micro Focus LoadRunner
+* Micro Focus LoadRunner and Silk Performer
 * Apache JMeter
 * NeoLoad
 * Dynatrace
@@ -13,12 +13,16 @@ This repository contains information about the performance testing and monitorin
 
 ## Micro Focus Certification
 
+### LoadRunner
+
 * Cert Name: LoadRunner v12.5 Certified Professional
 * Price: 200 USD
 * Registration: https://microfocus.viewcentral.com/events/uploads/microfocus/contact.html
 * Validity: Lifetime
 * Complexity: Tough
 * Free Retake: No
+
+### Silk Performer
 
 * Cert Name: Silk Performer Certified Professional
 * Price: 200 USD
