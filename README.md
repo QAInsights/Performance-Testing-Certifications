@@ -60,17 +60,35 @@ There is no official certification from Apache Foundation. But I recommend Blaze
 * Free Retake: Yes (3 attempts max)
 * Number of questions: 20
 * Passing score: 90%
+* Exam time: 2 hours
 
-## 🎯 Neotys NeoLoad
+## Neotys
 
-* Cert Name: Neotys Certified Professional for NeoLoad & Neotys Certified Expert for NeoLoad
+### 🎯 Neotys Certified Professional for NeoLoad 
+
+* Cert Name: Neotys Certified Professional for NeoLoad 
 * Price: Free
 * Registration: https://www.neotys.com/professional-services/neotys-certification-program
 * Validity: Lifetime
 * Complexity: Tough
-* Free Retake: Yes
+* Free Retake: Yes (3 attempts max)
+* Number of questions: 50
+* Passing score: 70%
+
+### Neotys Certified Expert for NeoLoad
+
+* Cert Name: Neotys Certified Expert for NeoLoad 
+* Price: Free
+* Registration: https://www.neotys.com/professional-services/neotys-certification-program
+* Validity: Lifetime
+* Complexity: Tough
+* Free Retake: NA
+* Exam time: 1 day
+* Morning > Practical Exam : 3 hours
+* After noon > Theory : 2 hours
 
 ## 🎯 Dynatrace
+
 
 | Cert Names   	| Dynatrace Associate & Dynatrace Professional (Written)   	| Dynatrace Professional (Practical)                       	|
 |--------------	|----------------------------------------------------------	|----------------------------------------------------------	|
