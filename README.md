@@ -48,7 +48,7 @@ If you see a certification is no longer updated or retired, please submit a PR t
 * Each question has a time duration of 2 minutes to be attempted by the student, failure to mark a response within the stipulated time will move the student to the next question on the block.  
 
 **References**: 
-* https://qainsights.com/how-i-successfully-cleared-micro-focus-loadrunner-certification/
+* [How I successfully cleared MicroFocus LoadRunner certification?](https://qainsights.com/how-i-successfully-cleared-micro-focus-loadrunner-certification/)
 * https://marketplace.microfocus.com/education/content/loadrunner-certified-professional-exam
 
 ## 🎯 Apache JMeter
@@ -76,7 +76,10 @@ There is no official certification from Apache Foundation. But I recommend Blaze
 * Complexity: Tough
 * Free Retake: Yes (3 attempts max)
 * Number of questions: 50
-* Passing score: 70%
+* Passing score: 70%  
+
+**Reference**
+* [How to get certified in Neotys NeoLoad?](https://qainsights.com/how-to-get-certified-in-neotys-neoload-professional-certification/)
 
 ### Neotys Certified Expert for NeoLoad
 
