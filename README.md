@@ -1,8 +1,11 @@
 # Performance Testing Certifications
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/QAInsights/Performance-Testing-Certifications/issues)![awesome-badge](https://camo.githubusercontent.com/463a60fdb1678820dcfb45e05439861c6dcf3029/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6261646765732d617765736f6d652d677265656e2e737667)
 
 This repository contains information about the performance testing and monitoring certifications.   
 
 I will try to keep this information up to date. But it is your responsibility to check the relevant official links before you register for the certification.
+
+If you see a certification is no longer updated or is not a good candidate, please submit a PR to improve this repo. Thank you!
 
 # 📘 List of Certifications 
   * [Micro Focus](#-micro-focus-certifications)
