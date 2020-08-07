@@ -26,6 +26,10 @@ I will try to keep this information up to date. But it is your responsibility to
 * Validity: Lifetime
 * Complexity: Tough
 * Free Retake: No
+* Number of questions: 50
+* Exam time: 2 hours 30 minutes
+* Passing score:70%
+* Each question has a time duration of 3 minutes to be attempted by the student, failure to mark a response within the stipulated time will move the student to the next question on the block.  
 
 ### Silk Performer
 
@@ -35,6 +39,10 @@ I will try to keep this information up to date. But it is your responsibility to
 * Validity: Lifetime
 * Complexity: Moderate
 * Free Retake: No
+* Number of questions: 32
+* Exam time: 2 hours
+* Passing score:70%
+* Each question has a time duration of 2 minutes to be attempted by the student, failure to mark a response within the stipulated time will move the student to the next question on the block.  
 
 **References**: 
 * https://qainsights.com/how-i-successfully-cleared-micro-focus-loadrunner-certification/
