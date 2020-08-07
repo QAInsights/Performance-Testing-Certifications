@@ -90,14 +90,14 @@ There is no official certification from Apache Foundation. But I recommend Blaze
 ## 🎯 Dynatrace
 
 
-| Cert Names   	| Dynatrace Associate & Dynatrace Professional (Written)   	| Dynatrace Professional (Practical)                       	|
+| Cert Names   	| Dynatrace Associate                                      	| Dynatrace Professional                                   	|
 |--------------	|----------------------------------------------------------	|----------------------------------------------------------	|
 | Price        	| 200 USD                                                  	| 250 USD                                                  	|
 | Registration 	| https://university.dynatrace.com/certification/dynatrace 	| https://university.dynatrace.com/certification/dynatrace 	|
 | Validity     	| 2 years                                                  	| 2 years                                                  	|
 | Complexity   	| Moderate / Tough                                         	| Tough                                                    	|
 | Free Retake  	| No                                                       	| No                                                       	|
-| Number of questions  	| 70                                                | 100*                                                      	|
+| Number of questions  	| 70                                                | 100*                                                     	|
 | Exam Time    	| 105 minutes                                               | 120 minutes                                               |
 | Passing Score | 72%                                                      	| 70%                                                      	|
 
