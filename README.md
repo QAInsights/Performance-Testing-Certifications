@@ -5,7 +5,7 @@ This repository contains information about the performance testing and monitorin
 
 I will try to keep this information up to date. But it is your responsibility to check the relevant official links before you register for the certification.
 
-If you see a certification is no longer updated or is not a viable candidate, please submit a PR to improve this repo. Thank you!
+If you see a certification is no longer updated or retired, please submit a PR to improve this repo. Thank you!
 
 # 📘 List of Certifications 
   * [Micro Focus](#-micro-focus-certifications)
