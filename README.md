@@ -97,12 +97,17 @@ There is no official certification from Apache Foundation. But I recommend Blaze
 | Validity     	| 2 years                                                  	| 2 years                                                  	|
 | Complexity   	| Moderate / Tough                                         	| Tough                                                    	|
 | Free Retake  	| No                                                       	| No                                                       	|
+| Number of questions  	| 70                                                | 100*                                                      	|
+| Exam Time    	| 105 minutes                                               | 120 minutes                                               |
+| Passing Score | 72%                                                      	| 70%                                                      	|
+
+*Dynatrace Professional cert has Practical Exam w/ multiple choice questions. You get 2.25 hours to complete practicals and multiple choice questions. Passing score is 86% 
 
 Dynatrace Master Journey requires submitting the application form to Dyntrace.  
 
 ## 🎯 New Relic
 
-* Cert Name: Nee Relic Fundamentals
+* Cert Name: New Relic Fundamentals
 * Price: Free
 * Registration: https://learn.newrelic.com/series/fundamentals
 * Validity: 1 year
