@@ -113,6 +113,7 @@ Dynatrace Master Journey requires submitting the application form to Dyntrace.
 * Validity: 1 year
 * Complexity: Moderate
 * Free Retake: Yes
+* Passing score: 80%
 
 PS: New Relic Certified Performance Pro certification has been retired as on Nov 15 2019.  
 
