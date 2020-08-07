@@ -119,13 +119,16 @@ PS: New Relic Certified Performance Pro certification has been retired as on Nov
 
 ## 🎯 AppDynamics
 
-| Cert Names   	| AppDynamics Certified Associate                          	| AppDynamics Certified Professional                       	|
+| Cert Names   	| AppDynamics Certified Associate Performance Analyst      	| AppDynamics Certified Professional                       	|
 |--------------	|----------------------------------------------------------	|----------------------------------------------------------	|
 | Price        	| 400 USD                                                  	| 400 USD                                                  	|
 | Registration 	| https://education.appdynamics.com/                       	| https://education.appdynamics.com                        	|
 | Validity     	| 2 years                                                  	| 2 years                                                  	|
 | Complexity   	| Moderate / Tough                                         	| Tough                                                    	|
 | Free Retake  	| No                                                       	| No                                                       	|
+| Number of questions  	| 60-65                                             | 50-55                                                   	 |
+| Exam Time    	| 105 minutes                                               | 90 minutes                                                |
+| Passing Score | 62%                                                      	| 64%                                                      	|
 
 ## 🎯 Others
 
