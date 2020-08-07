@@ -62,7 +62,7 @@ There is no official certification from Apache Foundation. But I recommend Blaze
 * Passing score: 90%
 * Exam time: 2 hours
 
-## Neotys
+## Neotys NeoLoad
 
 ### 🎯 Neotys Certified Professional for NeoLoad 
 
@@ -84,8 +84,8 @@ There is no official certification from Apache Foundation. But I recommend Blaze
 * Complexity: Tough
 * Free Retake: NA
 * Exam time: 1 day
-* Morning > Practical Exam : 3 hours
-* After noon > Theory : 2 hours
+  * Morning > Practical Exam : 3 hours
+  * After noon > Theory : 2 hours
 
 ## 🎯 Dynatrace
 
