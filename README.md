@@ -9,7 +9,7 @@ I will try to keep this information up to date. But it is your responsibility to
     + [LoadRunner](#-loadrunner)
     + [Silk Performer](#-silk-performer)
   * [Apache JMeter](#-apache-jmeter)
-  * [Neotys NeoLoad](#neotys-neoload)
+  * [Neotys NeoLoad](#-neotys-neoload)
   * [Dynatrace](#-dynatrace)
   * [New Relic](#-new-relic)
   * [AppDynamics](#-appdynamics)
@@ -62,9 +62,9 @@ There is no official certification from Apache Foundation. But I recommend Blaze
 * Passing score: 90%
 * Exam time: 2 hours
 
-## Neotys NeoLoad
+## 🎯 Neotys NeoLoad
 
-### 🎯 Neotys Certified Professional for NeoLoad 
+### Neotys Certified Professional for NeoLoad 
 
 * Cert Name: Neotys Certified Professional for NeoLoad 
 * Price: Free
