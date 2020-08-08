@@ -67,6 +67,18 @@ There is no official certification from Apache Foundation. But I recommend Blaze
 * Passing score: 90%
 * Exam time: 2 hours
 
+* Cert Name: Certified JMeter Tester
+* Price: 3,499 INR
+* Registration: https://www.vskills.in/certification/testing/jmeter-tester-certification
+* Validity: Lifetime
+* Complexity: Moderate
+* Free Retake: No
+* Number of questions: 50
+* Passing score: 50%
+* Exam time: 1 hour
+
+Vskills is a certification programme run by ICSIL (Intelligent Communication Systems India Limited) which is a Government of India PSU, and a Joint Venture of TCIL ( Govt of India PSU) and DSIIDC ( A Govt of NCT Delhi PSU). 
+
 ## 🎯 Neotys NeoLoad
 
 ### Neotys Certified Professional for NeoLoad 
