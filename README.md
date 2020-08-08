@@ -57,6 +57,8 @@ If you see a certification is no longer updated or retired, please submit a PR t
 
 There is no official certification from Apache Foundation. But I recommend Blazemeter certification.
 
+### Blazemeter
+
 * Cert Name: Apache JMeter Pro
 * Price: Free
 * Registration: https://university.blazemeter.com/
@@ -65,7 +67,9 @@ There is no official certification from Apache Foundation. But I recommend Blaze
 * Free Retake: Yes (3 attempts max)
 * Number of questions: 20
 * Passing score: 90%
-* Exam time: 2 hours
+* Exam time: 2 hours  
+
+### VSkills
 
 * Cert Name: Certified JMeter Tester
 * Price: 3,499 INR
