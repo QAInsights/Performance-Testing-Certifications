@@ -17,6 +17,7 @@ If you see a certification is no longer updated or retired, please submit a PR t
   * [Dynatrace](#-dynatrace)
   * [New Relic](#-new-relic)
   * [AppDynamics](#-appdynamics)
+  * [ISTQB](#-istqb)
   * [Others](#-others)
   * [Retired](#-retired)
 
@@ -136,6 +137,18 @@ PS: New Relic Certified Performance Pro certification has been retired as on Nov
 | Number of questions  	| 60-65                                             | 50-55                                                   	 |
 | Exam Time    	| 105 minutes                                               | 90 minutes                                                |
 | Passing Score | 62%                                                      	| 64%                                                      	|
+
+## 🎯 ISTQB  
+
+* Cert Name: Foundation Level Performance Testing
+* Price: 199 USD
+* Registration: https://www.istqb.org/certification-path-root/performance-testing.html
+* Validity: Lifetime
+* Complexity: Moderate
+* Free Retake: No (there will be promos for free retakes, please check with ISTQB)
+* Number of questions: 40
+* Exam Time: 90 minutes
+* Passing score: 65% 
 
 ## 🎯 Others
 
