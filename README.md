@@ -23,7 +23,9 @@ If you see a certification is no longer updated or retired, please submit a PR t
 
 <h3 align="center"><strong>Points to remember</strong></h3>
 
-> Learning multiple tools and getting certified will help you understand why one tool is not suited for some cases than the other. Earning certification doesn't mean that you know everything, please remember learning is an endless journey, never stop. Happy Journey!
+> Learning multiple tools and getting certified will help you understand why one tool is not suited for some cases than the other. Earning certification doesn't mean that you know everything, please remember learning is an endless journey, never stop.  
+
+> Happy Journey!
 
 ***
 
