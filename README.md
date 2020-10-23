@@ -48,14 +48,15 @@ If you see a certification is no longer updated or retired, please submit a PR t
 
 ### LoadRunner
 
-* Cert Name: LoadRunner v12.5 Certified Professional
+* Cert Name: LoadRunner Professional 2020 Certified Professional Exam
+ previously known as LoadRunner v12.5 Certified Professional
 * Price: 200 USD
 * Registration: https://microfocus.viewcentral.com/events/uploads/microfocus/contact.html
 * Validity: Lifetime
 * Complexity: Tough
 * Free Retake: No
 * Number of questions: 50
-* Exam time: 2 hours 30 minutes
+* Exam time: 2 hours
 * Passing score: 70%
 * Each question has a time duration of 3 minutes to be attempted by the student, failure to mark a response within the stipulated time will move the student to the next question on the block.  
 
