@@ -37,6 +37,7 @@ If you see a certification is no longer updated or retired, please submit a PR t
     + [Silk Performer](#-silk-performer)
   * [Apache JMeter](#-apache-jmeter)
   * [Neotys NeoLoad](#-neotys-neoload)
+  * [Gatling](#-gatling)
   * [Dynatrace](#-dynatrace)
   * [New Relic](#-new-relic)
   * [AppDynamics](#-appdynamics)
@@ -134,6 +135,19 @@ Vskills is a certification programme run by ICSIL (Intelligent Communication Sys
 * Exam time: 1 day
   * Morning > Practical Exam : 3 hours
   * After noon > Theory : 2 hours
+
+## 🎯 Gatling
+
+### Gatling Certification
+
+* Cert Name: Gatling Certification
+* Price: Free
+* Registration: https://academy.gatling.io/
+* Validity: Lifetime
+* Complexity: Moderate
+* Free Retake: Yes
+* Number of questions: 10 in each module
+* Passing score: 80%  
 
 ## 🎯 Dynatrace
 
