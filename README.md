@@ -42,6 +42,7 @@ If you see a certification is no longer updated or retired, please submit a PR t
   * [New Relic](#-new-relic)
   * [AppDynamics](#-appdynamics)
   * [ISTQB](#-istqb)
+  * [Neocortix](#-neocortix)
   * [Others](#-others)
   * [Retired](#-retired)
 
@@ -203,6 +204,18 @@ PS: New Relic Certified Performance Pro certification has been retired as on Nov
 * Number of questions: 40
 * Exam Time: 90 minutes
 * Passing score: 65% 
+
+## 🎯 Neocortix
+
+* Cert Name: Global Last-Mile Load Testing
+* Price: Free
+* Registration: https://neocortix.com/certifications
+* Validity: Lifetime
+* Complexity: Moderate
+* Free Retake: NA
+* Number of questions: NA
+* Exam Time: NA
+* Passing score: NA
 
 ## 🎯 Others
 
