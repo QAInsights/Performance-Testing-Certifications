@@ -142,13 +142,16 @@ Vskills is a certification programme run by ICSIL (Intelligent Communication Sys
 ### Gatling Certification
 
 * Cert Name: Gatling Certification
-* Price: Free
+* Course Fee: Free
+* Certificate Fee: Starting from 90 EUR + VAT
 * Registration: https://academy.gatling.io/
 * Validity: Lifetime
 * Complexity: Moderate
 * Free Retake: Yes
-* Number of questions: 10 in each module
+* Number of questions: Varies
 * Passing score: 80%  
+
+If you want to receive certificate, you need to purchase it. Certification cost starting from 90 EUR + VAT.
 
 ## 🎯 Dynatrace
 
