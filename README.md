@@ -40,6 +40,7 @@ If you see a certification is no longer updated or retired, please submit a PR t
   * [Gatling](#-gatling)
   * [Dynatrace](#-dynatrace)
   * [New Relic](#-new-relic)
+  * [LoadView](#-loadview)
   * [AppDynamics](#-appdynamics)
   * [ISTQB](#-istqb)
   * [Neocortix](#-neocortix)
@@ -182,6 +183,18 @@ Dynatrace Master Journey requires submitting the application form to Dyntrace.
 * Passing score: 80%
 
 PS: New Relic Certified Performance Pro certification has been retired as on Nov 15 2019.  
+
+## 🎯 LoadView
+
+* Cert Name: LoadView Certification Program
+* Price: Free
+* Registration: https://learning.dotcom-monitor.com
+* Validity: Lifetime
+* Complexity: Moderate
+* Free Retake: Yes
+* Passing score: NA
+
+PS: Manual grading which takes couple of days to get certified.  
 
 ## 🎯 AppDynamics
 
