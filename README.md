@@ -44,6 +44,7 @@ If you see a certification is no longer updated or retired, please submit a PR t
   * [AppDynamics](#-appdynamics)
   * [ISTQB](#-istqb)
   * [Neocortix](#-neocortix)
+  * [Postman](#-postman)
   * [Others](#-others)
   * [Retired](#-retired)
 
@@ -226,6 +227,18 @@ PS: Manual grading which takes couple of days to get certified.
 * Cert Name: Global Last-Mile Load Testing
 * Price: Free
 * Registration: https://neocortix.com/certifications
+* Validity: Lifetime
+* Complexity: Moderate
+* Free Retake: NA
+* Number of questions: NA
+* Exam Time: NA
+* Passing score: NA
+
+## 🎯 Postman
+
+* Cert Name: 30 days of Postman - for developers
+* Price: Free
+* Registration: https://www.postman.com/postman/workspace/30-days-of-postman-for-developers/overview
 * Validity: Lifetime
 * Complexity: Moderate
 * Free Retake: NA
